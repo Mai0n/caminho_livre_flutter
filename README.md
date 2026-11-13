@@ -165,4 +165,3 @@ Para gravar o vídeo com os dados de exemplo, use **Sobre → Restaurar dados de
 ## Links
 
 - Repositório: https://github.com/Mai0n/caminho_livre_flutter
-- Vídeo pitch: _(link do YouTube)_
